@@ -1,6 +1,8 @@
 
 # Project Budget Performance & Cost Efficiency Dashboard (Power BI)
 
+<img width="1433" height="799" alt="dashboard-screenshot png" src="https://github.com/user-attachments/assets/4fe29d65-b016-46c3-b045-88be45ae0b4d" />
+
 ## Overview
 This project is an end-to-end Power BI dashboard designed to analyze project financial performance for a construction company. 
 The dashboard focuses on budget vs actual tracking, cost efficiency, and identifying high-risk or high-cost projects.
